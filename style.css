@@ -1,0 +1,128 @@
+/* #block{
+    width: 1000px;
+    height: 1000px;
+    background-color: blue;
+}
+.box_3{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+} */
+body{
+    text-align: center;
+    background: url(./img/screen-1.jpg);
+    background-size: cover;
+    background-repeat: fixed;
+}
+#tabol{
+    width: 1000px;
+    height: 100%;
+    border: 1px solid black;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+div{
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 40px;
+    width: 120px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    overflow: hidden;
+    color: white;
+    padding-top: 100px;
+}
+input{
+    position: absolute;
+    bottom: 0;
+    left: 5px;
+    width: 120px;
+    background-color: rgba(0, 0, 0, 0.466);
+    color: white;
+
+}
+.yacheyka_1{
+    background: url(./img/200512-1559901727.jpg);
+    background-size: 100%;
+    background-size: cover;
+}
+.yacheyka_2{
+    background: url(./img/258923-1565603308.png);
+    background-size: cover;
+}
+.yacheyka_3{
+    background: url(./img/26622.jpg);
+    background-size: 100%;
+}
+.yacheyka_4{
+    background: url(./img/3175912-65073688-2560-1440.jpg);
+    background-size: 100%;
+}
+.yacheyka_5{
+    background: url(./img/FGWjelYXIA4oc_E.jfif);
+    background-size: 100%;
+}
+.yacheyka_6{
+    background: url(./img/Karim_Benzema_wearing_Real_Madrid_home_kit_2021-2022.jpg);
+    background-size: 100%;
+}
+.yacheyka_7{
+    background: url(./img/Mohamed_Salah_2018.jpg);
+    background-size: 100%;
+}
+.yacheyka_8{
+    background: url(./img/nejmar-prodlil-kontrakt-s-pszh-do-2025-goda_1620479228665316148.jpg);
+    background-size: cover;
+    background-position: -28px;
+}
+.yacheyka_9{
+    background: url(./img/pri_189541089-1200x800.jpg);
+    background-size: cover;
+    background-position: -24px;
+}
+.yacheyka_10{
+    background: url(./img/skysports-haaland-dortmund_5597496.jpg);
+    background-size: cover;
+    background-position: -4px;
+}
+.yacheyka_11{
+    background: url(./img/vinicius-junior-real-madrid-2019-20_9xicbub0yj1h1615zqeqtls9a.jpg);
+    background-size: cover;
+    background-position: -24px;
+}
+.yacheyka_12{
+    background: url(./img/Без\ названия\ \(12\).jfif);
+    background-size: 100%;
+}
+.yacheyka_13{
+    background: url(./img/Без\ названия\ \(13\).jfif);
+    background-size: 100%;
+}
+.yacheyka_14{
+    background: url(./img/Без\ названия\ \(14\).jfif);
+    background-size: 100%;
+}
+.yacheyka_15{
+    background: url(./img/Без\ названия\ \(15\).jfif);
+    background-size: 100%;
+}
+.yacheyka_16{
+    background: url(./img/Без\ названия\ \(16\).jfif);
+    background-size: cover;
+    background-position: -20px;
+}
+.yacheyka_17{
+    background: url(./img/Без\ названия\ \(17\).jfif);
+    background-size: cover;
+    background-position: -30px;
+}
+.yacheyka_18{
+    background: url(./img/Без\ названия\ \(18\).jfif);
+    background-size: cover;
+    background-position: -54px;
+}
